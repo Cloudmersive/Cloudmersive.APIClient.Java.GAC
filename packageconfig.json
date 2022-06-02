@@ -1,10 +1,10 @@
 {
-    "apiPackage": "com.cloudmersive.client.rt",
-    "modelPackage": "com.cloudmersive.client.rt.model",
-    "invokerPackage": "com.cloudmersive.client.rt.invoker",
-    "groupId": "com.cloudmersive.rt",
-    "artifactId": "cloudmersive-java-api-client-rt",
-    "library": "resttemplate",
-    "artifactVersion": "4.1.1",
+    "apiPackage": "com.cloudmersive.client.gac",
+    "modelPackage": "com.cloudmersive.client.gac.model",
+    "invokerPackage": "com.cloudmersive.client.gac.invoker",
+    "groupId": "com.cloudmersive.gac",
+    "artifactId": "cloudmersive-java-api-client-gac",
+    "library": "google-api-client",
+    "artifactVersion": "4.0.1",
     "useAbstractionForFiles": "true"
 }
